@@ -1,0 +1,288 @@
+PAIR NUMBER: 1
+Why did Teddy pick up the first bottle?
+Because he tried to pour a drink from the first bottle and failed.
+
+PAIR NUMBER: 2
+Why did Teddy pick up the first bottle?
+Because he checked the bottle and found it was empty.
+
+PAIR NUMBER: 3
+Why did Teddy pick up the first bottle?
+Because he placed the first bottle down.
+
+PAIR NUMBER: 4
+Why did Teddy pick up the first bottle?
+Because he picked up the second bottle.
+
+PAIR NUMBER: 5
+Why did Teddy pick up the first bottle?
+Because he poured the drink.
+
+PAIR NUMBER: 6
+Why did Teddy pick up the first bottle?
+Because he served the drink to the customer.
+
+PAIR NUMBER: 7
+Why did Teddy pick up the first bottle?
+In order to refill the customer's drink.
+
+PAIR NUMBER: 8
+Why did Teddy pick up the first bottle?
+Because he wanted to pick up the first bottle.
+
+PAIR NUMBER: 9
+Why did Teddy pick up the first bottle?
+Because he wanted to pour a drink from the first bottle.
+
+PAIR NUMBER: 10
+Why did Teddy pick up the first bottle?
+Because he wanted to check whether the first bottle was filled.
+
+PAIR NUMBER: 11
+Why did Teddy pick up the first bottle?
+Because he wanted to place the bottle down.
+
+PAIR NUMBER: 12
+Why did Teddy pick up the first bottle?
+Because he wanted to pick up the second bottle.
+
+PAIR NUMBER: 13
+Why did Teddy pick up the first bottle?
+Because he wanted to pour a drink from the second bottle.
+
+PAIR NUMBER: 14
+Why did Teddy pick up the first bottle?
+Because the first bottle was empty.
+
+PAIR NUMBER: 15
+Why did Teddy pick up the first bottle?
+Because Teddy believed that the first bottle was not empty.
+
+PAIR NUMBER: 16
+Why did Teddy pick up the first bottle?
+Because Teddy believed that the first bottle was empty.
+
+PAIR NUMBER: 17
+Why did Teddy pick up the first bottle?
+Because the second bottle was not empty.
+
+PAIR NUMBER: 18
+Why did Teddy pick up the first bottle?
+Because the glass was empty.
+
+PAIR NUMBER: 19
+Why did Teddy pick up the first bottle?
+Because Teddy was unsure whether the bottle was empty.
+
+PAIR NUMBER: 20
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he checked the bottle and found it was empty.
+
+PAIR NUMBER: 21
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he placed the first bottle down.
+
+PAIR NUMBER: 22
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he picked up the second bottle.
+
+PAIR NUMBER: 23
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he poured the drink.
+
+PAIR NUMBER: 24
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he served the drink to the customer.
+
+PAIR NUMBER: 25
+Why did Teddy attempt to pour the drink from the first bottle?
+In order to refill the customer's drink.
+
+PAIR NUMBER: 26
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he wanted to pour a drink from the first bottle.
+
+PAIR NUMBER: 27
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he wanted to check whether the first bottle was filled.
+
+PAIR NUMBER: 28
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he wanted to place the bottle down.
+
+PAIR NUMBER: 29
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he wanted to pick up the second bottle.
+
+PAIR NUMBER: 30
+Why did Teddy attempt to pour the drink from the first bottle?
+Because he wanted to pour a drink from the second bottle.
+
+PAIR NUMBER: 31
+Why did Teddy attempt to pour the drink from the first bottle?
+Because the first bottle was empty.
+
+PAIR NUMBER: 32
+Why did Teddy attempt to pour the drink from the first bottle?
+Because Teddy believed that the first bottle was not empty.
+
+PAIR NUMBER: 33
+Why did Teddy attempt to pour the drink from the first bottle?
+Because Teddy believed that the first bottle was empty.
+
+PAIR NUMBER: 34
+Why did Teddy attempt to pour the drink from the first bottle?
+Because the second bottle was not empty.
+
+PAIR NUMBER: 35
+Why did Teddy attempt to pour the drink from the first bottle?
+Because the glass was empty.
+
+PAIR NUMBER: 36
+Why did Teddy attempt to pour the drink from the first bottle?
+Because Teddy was unsure whether the bottle was empty.
+
+PAIR NUMBER: 37
+Why did Teddy check the first bottle?
+Because he placed the first bottle down.
+
+PAIR NUMBER: 38
+Why did Teddy check the first bottle?
+Because he picked up the second bottle.
+
+PAIR NUMBER: 39
+Why did Teddy check the first bottle?
+Because he poured the drink.
+
+PAIR NUMBER: 40
+Why did Teddy check the first bottle?
+Because he served the drink to the customer.
+
+PAIR NUMBER: 41
+Why did Teddy check the first bottle?
+In order to refill the customer's drink.
+
+PAIR NUMBER: 42
+Why did Teddy check the first bottle?
+Because he wanted to check whether the first bottle was filled.
+
+PAIR NUMBER: 43
+Why did Teddy check the first bottle?
+Because he wanted to place the bottle down.
+
+PAIR NUMBER: 44
+Why did Teddy check the first bottle?
+Because he wanted to pick up the second bottle.
+
+PAIR NUMBER: 45
+Why did Teddy check the first bottle?
+Because he wanted to pour a drink from the second bottle.
+
+PAIR NUMBER: 46
+Why did Teddy check the first bottle?
+Because the first bottle was empty.
+
+PAIR NUMBER: 47
+Why did Teddy check the first bottle?
+Because Teddy believed that the first bottle was not empty.
+
+PAIR NUMBER: 48
+Why did Teddy check the first bottle?
+Because Teddy believed that the first bottle was empty.
+
+PAIR NUMBER: 49
+Why did Teddy check the first bottle?
+Because the second bottle was not empty.
+
+PAIR NUMBER: 50
+Why did Teddy check the first bottle?
+Because the glass was empty.
+
+PAIR NUMBER: 51
+Why did Teddy check the first bottle?
+Because Teddy was unsure whether the bottle was empty.
+
+PAIR NUMBER: 52
+Why did Teddy pick up the new bottle?
+Because he poured the drink.
+
+PAIR NUMBER: 53
+Why did Teddy pick up the new bottle?
+Because he served the drink to the customer.
+
+PAIR NUMBER: 54
+Why did Teddy pick up the new bottle?
+In order to refill the customer's drink.
+
+PAIR NUMBER: 55
+Why did Teddy pick up the new bottle?
+Because he wanted to pick up the second bottle.
+
+PAIR NUMBER: 56
+Why did Teddy pick up the new bottle?
+Because he wanted to pour a drink from the second bottle.
+
+PAIR NUMBER: 57
+Why did Teddy pick up the new bottle?
+Because the first bottle was empty.
+
+PAIR NUMBER: 58
+Why did Teddy pick up the new bottle?
+Because Teddy believed that the first bottle was empty.
+
+PAIR NUMBER: 59
+Why did Teddy pick up the new bottle?
+Because the second bottle was not empty.
+
+PAIR NUMBER: 60
+Why did Teddy pick up the new bottle?
+Because the glass was empty.
+
+PAIR NUMBER: 61
+Why did Teddy pour the drink?
+Because he served the drink to the customer.
+
+PAIR NUMBER: 62
+Why did Teddy pour the drink?
+In order to refill the customer's drink.
+
+PAIR NUMBER: 63
+Why did Teddy pour the drink?
+Because he wanted to pour a drink from the second bottle.
+
+PAIR NUMBER: 64
+Why did Teddy pour the drink?
+Because the first bottle was empty.
+
+PAIR NUMBER: 65
+Why did Teddy pour the drink?
+Because Teddy believed that the first bottle was empty.
+
+PAIR NUMBER: 66
+Why did Teddy pour the drink?
+Because the second bottle was not empty.
+
+PAIR NUMBER: 67
+Why did Teddy pour the drink?
+Because the glass was empty.
+
+PAIR NUMBER: 68
+Why did Teddy serve the drink to the customer?
+In order to refill the customer's drink.
+
+PAIR NUMBER: 69
+Why did Teddy serve the drink to the customer?
+Because the first bottle was empty.
+
+PAIR NUMBER: 70
+Why did Teddy serve the drink to the customer?
+Because Teddy believed that the first bottle was empty.
+
+PAIR NUMBER: 71
+Why did Teddy serve the drink to the customer?
+Because the second bottle was not empty.
+
+PAIR NUMBER: 72
+Why did Teddy serve the drink to the customer?
+Because the glass was empty.
+

@@ -1,0 +1,340 @@
+PAIR NUMBER: 1
+Why did Dolores pick up the revolver?
+Because she failed to shoot at the door lock.
+
+PAIR NUMBER: 2
+Why did Dolores pick up the revolver?
+Because she checked the barrel and found that it was empty.
+
+PAIR NUMBER: 3
+Why did Dolores pick up the revolver?
+Because she picked up the bullets.
+
+PAIR NUMBER: 4
+Why did Dolores pick up the revolver?
+Because she loaded the gun.
+
+PAIR NUMBER: 5
+Why did Dolores pick up the revolver?
+Because she shot at the jail door lock.
+
+PAIR NUMBER: 6
+Why did Dolores pick up the revolver?
+Because she walked out of the jail cell.
+
+PAIR NUMBER: 7
+Why did Dolores pick up the revolver?
+Because she wanted to pick up the revolver.
+
+PAIR NUMBER: 8
+Why did Dolores pick up the revolver?
+Because she wanted to to shoot at the jail door lock.
+
+PAIR NUMBER: 9
+Why did Dolores pick up the revolver?
+Because she wanted to check the revolver barrel.
+
+PAIR NUMBER: 10
+Why did Dolores pick up the revolver?
+Because she wanted to pick up the revolver bullets.
+
+PAIR NUMBER: 11
+Why did Dolores pick up the revolver?
+Because she wanted to load the revolver.
+
+PAIR NUMBER: 12
+Why did Dolores pick up the revolver?
+Because she wanted to shoot at the jail door lock.
+
+PAIR NUMBER: 13
+Why did Dolores pick up the revolver?
+In order to escape from prison.
+
+PAIR NUMBER: 14
+Why did Dolores pick up the revolver?
+Because the revolver was loaded.
+
+PAIR NUMBER: 15
+Why did Dolores pick up the revolver?
+Because the revolver was not loaded.
+
+PAIR NUMBER: 16
+Why did Dolores pick up the revolver?
+Because the jail door was locked.
+
+PAIR NUMBER: 17
+Why did Dolores pick up the revolver?
+Because Dolores believed that the revolver was loaded.
+
+PAIR NUMBER: 18
+Why did Dolores pick up the revolver?
+Because Dolores believed that the revolver was not loaded.
+
+PAIR NUMBER: 19
+Why did Dolores pick up the revolver?
+Because the jail door was unlocked.
+
+PAIR NUMBER: 20
+Why did Dolores fail to shoot at the door lock?
+Because she checked the barrel and found that it was empty.
+
+PAIR NUMBER: 21
+Why did Dolores fail to shoot at the door lock?
+Because she picked up the bullets.
+
+PAIR NUMBER: 22
+Why did Dolores fail to shoot at the door lock?
+Because she loaded the gun.
+
+PAIR NUMBER: 23
+Why did Dolores fail to shoot at the door lock?
+Because she shot at the jail door lock.
+
+PAIR NUMBER: 24
+Why did Dolores fail to shoot at the door lock?
+Because she walked out of the jail cell.
+
+PAIR NUMBER: 25
+Why did Dolores fail to shoot at the door lock?
+Because she wanted to to shoot at the jail door lock.
+
+PAIR NUMBER: 26
+Why did Dolores fail to shoot at the door lock?
+Because she wanted to check the revolver barrel.
+
+PAIR NUMBER: 27
+Why did Dolores fail to shoot at the door lock?
+Because she wanted to pick up the revolver bullets.
+
+PAIR NUMBER: 28
+Why did Dolores fail to shoot at the door lock?
+Because she wanted to load the revolver.
+
+PAIR NUMBER: 29
+Why did Dolores fail to shoot at the door lock?
+Because she wanted to shoot at the jail door lock.
+
+PAIR NUMBER: 30
+Why did Dolores fail to shoot at the door lock?
+In order to escape from prison.
+
+PAIR NUMBER: 31
+Why did Dolores fail to shoot at the door lock?
+Because the revolver was loaded.
+
+PAIR NUMBER: 32
+Why did Dolores fail to shoot at the door lock?
+Because the revolver was not loaded.
+
+PAIR NUMBER: 33
+Why did Dolores fail to shoot at the door lock?
+Because the jail door was locked.
+
+PAIR NUMBER: 34
+Why did Dolores fail to shoot at the door lock?
+Because Dolores believed that the revolver was loaded.
+
+PAIR NUMBER: 35
+Why did Dolores fail to shoot at the door lock?
+Because Dolores believed that the revolver was not loaded.
+
+PAIR NUMBER: 36
+Why did Dolores fail to shoot at the door lock?
+Because the jail door was unlocked.
+
+PAIR NUMBER: 37
+Why did Dolores check the revolver barrel?
+Because she picked up the bullets.
+
+PAIR NUMBER: 38
+Why did Dolores check the revolver barrel?
+Because she loaded the gun.
+
+PAIR NUMBER: 39
+Why did Dolores check the revolver barrel?
+Because she shot at the jail door lock.
+
+PAIR NUMBER: 40
+Why did Dolores check the revolver barrel?
+Because she walked out of the jail cell.
+
+PAIR NUMBER: 41
+Why did Dolores check the revolver barrel?
+Because she wanted to check the revolver barrel.
+
+PAIR NUMBER: 42
+Why did Dolores check the revolver barrel?
+Because she wanted to pick up the revolver bullets.
+
+PAIR NUMBER: 43
+Why did Dolores check the revolver barrel?
+Because she wanted to load the revolver.
+
+PAIR NUMBER: 44
+Why did Dolores check the revolver barrel?
+Because she wanted to shoot at the jail door lock.
+
+PAIR NUMBER: 45
+Why did Dolores check the revolver barrel?
+In order to escape from prison.
+
+PAIR NUMBER: 46
+Why did Dolores check the revolver barrel?
+Because the revolver was loaded.
+
+PAIR NUMBER: 47
+Why did Dolores check the revolver barrel?
+Because the revolver was not loaded.
+
+PAIR NUMBER: 48
+Why did Dolores check the revolver barrel?
+Because the jail door was locked.
+
+PAIR NUMBER: 49
+Why did Dolores check the revolver barrel?
+Because Dolores believed that the revolver was loaded.
+
+PAIR NUMBER: 50
+Why did Dolores check the revolver barrel?
+Because Dolores believed that the revolver was not loaded.
+
+PAIR NUMBER: 51
+Why did Dolores check the revolver barrel?
+Because the jail door was unlocked.
+
+PAIR NUMBER: 52
+Why did Dolores pick up the bullets?
+Because she loaded the gun.
+
+PAIR NUMBER: 53
+Why did Dolores pick up the bullets?
+Because she shot at the jail door lock.
+
+PAIR NUMBER: 54
+Why did Dolores pick up the bullets?
+Because she walked out of the jail cell.
+
+PAIR NUMBER: 55
+Why did Dolores pick up the bullets?
+Because she wanted to pick up the revolver bullets.
+
+PAIR NUMBER: 56
+Why did Dolores pick up the bullets?
+Because she wanted to load the revolver.
+
+PAIR NUMBER: 57
+Why did Dolores pick up the bullets?
+Because she wanted to shoot at the jail door lock.
+
+PAIR NUMBER: 58
+Why did Dolores pick up the bullets?
+In order to escape from prison.
+
+PAIR NUMBER: 59
+Why did Dolores pick up the bullets?
+Because the revolver was loaded.
+
+PAIR NUMBER: 60
+Why did Dolores pick up the bullets?
+Because the revolver was not loaded.
+
+PAIR NUMBER: 61
+Why did Dolores pick up the bullets?
+Because the jail door was locked.
+
+PAIR NUMBER: 62
+Why did Dolores pick up the bullets?
+Because Dolores believed that the revolver was loaded.
+
+PAIR NUMBER: 63
+Why did Dolores pick up the bullets?
+Because Dolores believed that the revolver was not loaded.
+
+PAIR NUMBER: 64
+Why did Dolores pick up the bullets?
+Because the jail door was unlocked.
+
+PAIR NUMBER: 65
+Why did Dolores load the revolver?
+Because she shot at the jail door lock.
+
+PAIR NUMBER: 66
+Why did Dolores load the revolver?
+Because she walked out of the jail cell.
+
+PAIR NUMBER: 67
+Why did Dolores load the revolver?
+Because she wanted to load the revolver.
+
+PAIR NUMBER: 68
+Why did Dolores load the revolver?
+Because she wanted to shoot at the jail door lock.
+
+PAIR NUMBER: 69
+Why did Dolores load the revolver?
+In order to escape from prison.
+
+PAIR NUMBER: 70
+Why did Dolores load the revolver?
+Because the revolver was loaded.
+
+PAIR NUMBER: 71
+Why did Dolores load the revolver?
+Because the revolver was not loaded.
+
+PAIR NUMBER: 72
+Why did Dolores load the revolver?
+Because the jail door was locked.
+
+PAIR NUMBER: 73
+Why did Dolores load the revolver?
+Because Dolores believed that the revolver was loaded.
+
+PAIR NUMBER: 74
+Why did Dolores load the revolver?
+Because Dolores believed that the revolver was not loaded.
+
+PAIR NUMBER: 75
+Why did Dolores load the revolver?
+Because the jail door was unlocked.
+
+PAIR NUMBER: 76
+Why did Dolores shoot at the door lock?
+Because she walked out of the jail cell.
+
+PAIR NUMBER: 77
+Why did Dolores shoot at the door lock?
+Because she wanted to shoot at the jail door lock.
+
+PAIR NUMBER: 78
+Why did Dolores shoot at the door lock?
+In order to escape from prison.
+
+PAIR NUMBER: 79
+Why did Dolores shoot at the door lock?
+Because the revolver was loaded.
+
+PAIR NUMBER: 80
+Why did Dolores shoot at the door lock?
+Because the jail door was locked.
+
+PAIR NUMBER: 81
+Why did Dolores shoot at the door lock?
+Because Dolores believed that the revolver was loaded.
+
+PAIR NUMBER: 82
+Why did Dolores shoot at the door lock?
+Because the jail door was unlocked.
+
+PAIR NUMBER: 83
+Why did Dolores walk out of the jail cell?
+In order to escape from prison.
+
+PAIR NUMBER: 84
+Why did Dolores walk out of the jail cell?
+Because Dolores believed that the revolver was loaded.
+
+PAIR NUMBER: 85
+Why did Dolores walk out of the jail cell?
+Because the jail door was unlocked.
+
