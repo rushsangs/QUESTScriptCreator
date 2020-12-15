@@ -1,6 +1,8 @@
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow,Flow
 from google.auth.transport.requests import Request
+from pprint import pprint
+from googleapiclient import discovery
 import os
 import pickle
 
@@ -28,13 +30,13 @@ def getService():
 
     service = build('sheets', 'v4', credentials=creds)
 
-def readFromSheet(SHEET_ID = '17RJFfKeIfyupURzDaCyQ9rZbkR8JgJSl0c8-RMKBbwg', SAMPLE_RANGE_NAME = 'A1:AA1000'):
+def readFromSheet(SHEET_ID = '17RJFfKeIfyupURzDaCyQ9rZbkR8JgJSl0c8-RMKBbwg', RANGE = 'A1:AA1000'):
     getService()
 
     # Call the Sheets API
     sheet = service.spreadsheets()
     result = sheet.values().get(spreadsheetId=SHEET_ID,
-                                range=SAMPLE_RANGE_NAME).execute()
+                                range=RANGE).execute()
     values = result.get('values', [])
 
     if not values:
@@ -46,4 +48,19 @@ def readFromSheet(SHEET_ID = '17RJFfKeIfyupURzDaCyQ9rZbkR8JgJSl0c8-RMKBbwg', SAM
             print('%s' % (row[0]))
         return values
 
-readFromSheet()
+def writeToSheet(SHEET_ID= '1YylnFnVCNtkFOFEz0qg9PaBHwC1LEdRcGMGBVwe4INk', SAMPLE_RANGE_NAME = 'A1:AA1000', body = [['hello'], ['hello']] ):
+    getService()
+
+    # Call the Sheets API
+    value_input_option = 'RAW'  # TODO: Update placeholder value.
+
+    request = service.spreadsheets().values().update(spreadsheetId=SHEET_ID, range=SAMPLE_RANGE_NAME, valueInputOption=value_input_option, body=body)
+    response = request.execute()
+    pprint(response)
+
+    print('done')
+
+# readFromSheet()
+# writeToSheet()
+
+
