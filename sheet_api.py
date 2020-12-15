@@ -40,12 +40,10 @@ def readFromSheet(SHEET_ID = '17RJFfKeIfyupURzDaCyQ9rZbkR8JgJSl0c8-RMKBbwg', RAN
     values = result.get('values', [])
 
     if not values:
-        print('No data found.')
+        print('[ERROR]No data found.')
         return []
     else:
-        for row in values:
-            # Print columns A and E, which correspond to indices 0 and 4.
-            print('%s' % (row[0]))
+        print('[LOG]Fetched data from Google Sheets API.')
         return values
 
 def writeToSheet(SHEET_ID= '1YylnFnVCNtkFOFEz0qg9PaBHwC1LEdRcGMGBVwe4INk', SAMPLE_RANGE_NAME = 'A1:AA1000', body = [['hello'], ['hello']] ):
@@ -56,9 +54,7 @@ def writeToSheet(SHEET_ID= '1YylnFnVCNtkFOFEz0qg9PaBHwC1LEdRcGMGBVwe4INk', SAMPL
 
     request = service.spreadsheets().values().update(spreadsheetId=SHEET_ID, range=SAMPLE_RANGE_NAME, valueInputOption=value_input_option, body=body)
     response = request.execute()
-    pprint(response)
-
-    print('done')
+    print("[LOG]Update request to Google Sheets API: " + str(response))
 
 # readFromSheet()
 # writeToSheet()
