@@ -431,6 +431,14 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
+55. What was the consequence of Dolores picking up the bullets?
+She was able to load the revolver with the bullets
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
 55. Why did Dolores pick up the bullets?
 Because she loaded the gun.
 
@@ -439,8 +447,24 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
+56. What was the consequence of Dolores picking up the bullets?
+She was able to shoot at the jail door successfully.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
 56. Why did Dolores pick up the bullets?
 Because she shot at the jail door lock.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+57. What was the consequence of Dolores picking up the bullets?
+She was able to walk out of the jail cell.
 
 Very Bad Answer 
 Bad Answer 
@@ -543,8 +567,24 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
+69. What was the consequence of Dolores loading the revolver?
+She was able to shoot at the jail door successfully.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
 69. Why did Dolores load the revolver?
 Because she shot at the jail door lock.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+70. What was the consequence of Dolores loading the revolver?
+She was able to walk out of the jail cell.
 
 Very Bad Answer 
 Bad Answer 
@@ -633,6 +673,14 @@ Very Good Answer
 
 80. Why did Dolores load the revolver?
 Because Dolores was not sure whether the revolver was loaded.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+81. What was the consequence of Dolores successfully shooting the jail door open?
+She was able to walk out of the jail cell.
 
 Very Bad Answer 
 Bad Answer 
