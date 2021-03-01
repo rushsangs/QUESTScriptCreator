@@ -52,6 +52,11 @@ def writeToSheet(SHEET_ID= '1YylnFnVCNtkFOFEz0qg9PaBHwC1LEdRcGMGBVwe4INk', SAMPL
     # Call the Sheets API
     value_input_option = 'RAW'  # TODO: Update placeholder value.
 
+    # clear the sheet 
+    request = service.spreadsheets().values().clear(spreadsheetId=SHEET_ID, range=SAMPLE_RANGE_NAME, body={})
+    response = request.execute()
+
+    #update the sheet
     request = service.spreadsheets().values().update(spreadsheetId=SHEET_ID, range=SAMPLE_RANGE_NAME, valueInputOption=value_input_option, body=body)
     response = request.execute()
     print("[LOG]Update request to Google Sheets API: " + str(response))

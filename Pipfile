@@ -9,6 +9,7 @@ oauth2client = "*"
 gspread = "*"
 google-api-python-client = "*"
 pandas = "*"
+networkx = "*"
 
 [dev-packages]
 

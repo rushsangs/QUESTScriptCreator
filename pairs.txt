@@ -8,7 +8,7 @@ Good Answer
 Very Good Answer 
 
 2. Why did Dolores pick up the revolver?
-Because she checked the barrel and found that it was empty.
+Because she picked up the bullets.
 
 Very Bad Answer 
 Bad Answer 
@@ -16,7 +16,7 @@ Good Answer
 Very Good Answer 
 
 3. Why did Dolores pick up the revolver?
-Because she picked up the bullets.
+Because she loaded the gun.
 
 Very Bad Answer 
 Bad Answer 
@@ -24,7 +24,7 @@ Good Answer
 Very Good Answer 
 
 4. Why did Dolores pick up the revolver?
-Because she loaded the gun.
+Because she walked out of the jail cell.
 
 Very Bad Answer 
 Bad Answer 
@@ -32,7 +32,7 @@ Good Answer
 Very Good Answer 
 
 5. Why did Dolores pick up the revolver?
-Because she shot at the jail door lock.
+Because she wanted to shoot at the jail door lock.
 
 Very Bad Answer 
 Bad Answer 
@@ -40,7 +40,7 @@ Good Answer
 Very Good Answer 
 
 6. Why did Dolores pick up the revolver?
-Because she walked out of the jail cell.
+Because she wanted to shoot at the jail door lock.
 
 Very Bad Answer 
 Bad Answer 
@@ -48,7 +48,7 @@ Good Answer
 Very Good Answer 
 
 7. Why did Dolores pick up the revolver?
-Because she wanted to pick up the revolver.
+In order to escape from prison.
 
 Very Bad Answer 
 Bad Answer 
@@ -56,7 +56,7 @@ Good Answer
 Very Good Answer 
 
 8. Why did Dolores pick up the revolver?
-Because she wanted to shoot at the jail door lock.
+Because the revolver was loaded.
 
 Very Bad Answer 
 Bad Answer 
@@ -64,70 +64,6 @@ Good Answer
 Very Good Answer 
 
 9. Why did Dolores pick up the revolver?
-Because she wanted to check the revolver barrel.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-10. Why did Dolores pick up the revolver?
-Because she wanted to pick up the revolver bullets.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-11. Why did Dolores pick up the revolver?
-Because she wanted to load the revolver.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-12. Why did Dolores pick up the revolver?
-Because she wanted to shoot at the jail door lock.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-13. Why did Dolores pick up the revolver?
-In order to escape from prison.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-14. Why did Dolores pick up the revolver?
-Because the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-15. Why did Dolores pick up the revolver?
-Because the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-16. Why did Dolores pick up the revolver?
-Because the jail door was locked.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-17. Why did Dolores pick up the revolver?
 Because Dolores believed that the revolver was loaded.
 
 Very Bad Answer 
@@ -135,31 +71,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-18. Why did Dolores pick up the revolver?
-Because Dolores believed that the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-19. Why did Dolores pick up the revolver?
-Because the jail door was unlocked.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-20. Why did Dolores pick up the revolver?
-Because Dolores was not sure whether the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-21. Why did Dolores fail to shoot at the door lock?
+10. Why did Dolores fail to shoot at the door lock?
 Because she checked the barrel and found that it was empty.
 
 Very Bad Answer 
@@ -167,8 +79,96 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-22. Why did Dolores fail to shoot at the door lock?
+11. Why did Dolores fail to shoot at the door lock?
 Because she picked up the bullets.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+12. Why did Dolores fail to shoot at the door lock?
+Because she loaded the gun.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+13. Why did Dolores fail to shoot at the door lock?
+Because she shot at the jail door lock.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+14. Why did Dolores fail to shoot at the door lock?
+Because she walked out of the jail cell.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+15. Why did Dolores fail to shoot at the door lock?
+Because she wanted to shoot at the jail door lock.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+16. Why did Dolores fail to shoot at the door lock?
+Because she wanted to check the revolver barrel.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+17. Why did Dolores fail to shoot at the door lock?
+Because she wanted to pick up the revolver bullets.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+18. Why did Dolores fail to shoot at the door lock?
+Because she wanted to load the revolver.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+19. Why did Dolores fail to shoot at the door lock?
+Because she wanted to shoot at the jail door lock.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+20. Why did Dolores fail to shoot at the door lock?
+In order to escape from prison.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+21. Why did Dolores fail to shoot at the door lock?
+Because the revolver was loaded.
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+
+22. Why did Dolores fail to shoot at the door lock?
+Because the revolver was not loaded.
 
 Very Bad Answer 
 Bad Answer 
@@ -176,7 +176,7 @@ Good Answer
 Very Good Answer 
 
 23. Why did Dolores fail to shoot at the door lock?
-Because she loaded the gun.
+Because the jail door was locked.
 
 Very Bad Answer 
 Bad Answer 
@@ -184,7 +184,7 @@ Good Answer
 Very Good Answer 
 
 24. Why did Dolores fail to shoot at the door lock?
-Because she shot at the jail door lock.
+Because Dolores believed that the revolver was loaded.
 
 Very Bad Answer 
 Bad Answer 
@@ -192,7 +192,7 @@ Good Answer
 Very Good Answer 
 
 25. Why did Dolores fail to shoot at the door lock?
-Because she walked out of the jail cell.
+Because Dolores believed that the revolver was not loaded.
 
 Very Bad Answer 
 Bad Answer 
@@ -200,7 +200,7 @@ Good Answer
 Very Good Answer 
 
 26. Why did Dolores fail to shoot at the door lock?
-Because she wanted to shoot at the jail door lock.
+Because the jail door was unlocked.
 
 Very Bad Answer 
 Bad Answer 
@@ -208,94 +208,6 @@ Good Answer
 Very Good Answer 
 
 27. Why did Dolores fail to shoot at the door lock?
-Because she wanted to check the revolver barrel.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-28. Why did Dolores fail to shoot at the door lock?
-Because she wanted to pick up the revolver bullets.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-29. Why did Dolores fail to shoot at the door lock?
-Because she wanted to load the revolver.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-30. Why did Dolores fail to shoot at the door lock?
-Because she wanted to shoot at the jail door lock.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-31. Why did Dolores fail to shoot at the door lock?
-In order to escape from prison.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-32. Why did Dolores fail to shoot at the door lock?
-Because the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-33. Why did Dolores fail to shoot at the door lock?
-Because the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-34. Why did Dolores fail to shoot at the door lock?
-Because the jail door was locked.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-35. Why did Dolores fail to shoot at the door lock?
-Because Dolores believed that the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-36. Why did Dolores fail to shoot at the door lock?
-Because Dolores believed that the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-37. Why did Dolores fail to shoot at the door lock?
-Because the jail door was unlocked.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-38. Why did Dolores fail to shoot at the door lock?
 Because Dolores was not sure whether the revolver was loaded.
 
 Very Bad Answer 
@@ -303,7 +215,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-39. Why did Dolores check the revolver barrel?
+28. Why did Dolores check the revolver barrel?
 Because she picked up the bullets.
 
 Very Bad Answer 
@@ -311,39 +223,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-40. Why did Dolores check the revolver barrel?
-Because she loaded the gun.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-41. Why did Dolores check the revolver barrel?
-Because she shot at the jail door lock.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-42. Why did Dolores check the revolver barrel?
-Because she walked out of the jail cell.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-43. Why did Dolores check the revolver barrel?
-Because she wanted to check the revolver barrel.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-44. Why did Dolores check the revolver barrel?
+29. Why did Dolores check the revolver barrel?
 Because she wanted to pick up the revolver bullets.
 
 Very Bad Answer 
@@ -351,7 +231,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-45. Why did Dolores check the revolver barrel?
+30. Why did Dolores check the revolver barrel?
 Because she wanted to load the revolver.
 
 Very Bad Answer 
@@ -359,23 +239,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-46. Why did Dolores check the revolver barrel?
-Because she wanted to shoot at the jail door lock.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-47. Why did Dolores check the revolver barrel?
-In order to escape from prison.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-48. Why did Dolores check the revolver barrel?
+31. Why did Dolores check the revolver barrel?
 Because the revolver was loaded.
 
 Very Bad Answer 
@@ -383,7 +247,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-49. Why did Dolores check the revolver barrel?
+32. Why did Dolores check the revolver barrel?
 Because the revolver was not loaded.
 
 Very Bad Answer 
@@ -391,7 +255,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-50. Why did Dolores check the revolver barrel?
+33. Why did Dolores check the revolver barrel?
 Because the jail door was locked.
 
 Very Bad Answer 
@@ -399,23 +263,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-51. Why did Dolores check the revolver barrel?
-Because Dolores believed that the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-52. Why did Dolores check the revolver barrel?
-Because Dolores believed that the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-53. Why did Dolores check the revolver barrel?
+34. Why did Dolores check the revolver barrel?
 Because the jail door was unlocked.
 
 Very Bad Answer 
@@ -423,7 +271,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-54. Why did Dolores check the revolver barrel?
+35. Why did Dolores check the revolver barrel?
 Because Dolores was not sure whether the revolver was loaded.
 
 Very Bad Answer 
@@ -431,55 +279,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-55. What was the consequence of Dolores picking up the bullets?
-She was able to load the revolver with the bullets
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-55. Why did Dolores pick up the bullets?
-Because she loaded the gun.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-56. What was the consequence of Dolores picking up the bullets?
-She was able to shoot at the jail door successfully.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-56. Why did Dolores pick up the bullets?
-Because she shot at the jail door lock.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-57. What was the consequence of Dolores picking up the bullets?
-She was able to walk out of the jail cell.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-57. Why did Dolores pick up the bullets?
-Because she walked out of the jail cell.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-58. Why did Dolores pick up the bullets?
+36. Why did Dolores pick up the bullets?
 Because she wanted to pick up the revolver bullets.
 
 Very Bad Answer 
@@ -487,7 +287,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-59. Why did Dolores pick up the bullets?
+37. Why did Dolores pick up the bullets?
 Because she wanted to load the revolver.
 
 Very Bad Answer 
@@ -495,7 +295,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-60. Why did Dolores pick up the bullets?
+38. Why did Dolores pick up the bullets?
 Because she wanted to shoot at the jail door lock.
 
 Very Bad Answer 
@@ -503,7 +303,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-61. Why did Dolores pick up the bullets?
+39. Why did Dolores pick up the bullets?
 In order to escape from prison.
 
 Very Bad Answer 
@@ -511,15 +311,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-62. Why did Dolores pick up the bullets?
-Because the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-63. Why did Dolores pick up the bullets?
+40. Why did Dolores pick up the bullets?
 Because the revolver was not loaded.
 
 Very Bad Answer 
@@ -527,7 +319,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-64. Why did Dolores pick up the bullets?
+41. Why did Dolores pick up the bullets?
 Because the jail door was locked.
 
 Very Bad Answer 
@@ -535,23 +327,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-65. Why did Dolores pick up the bullets?
-Because Dolores believed that the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-66. Why did Dolores pick up the bullets?
-Because Dolores believed that the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-67. Why did Dolores pick up the bullets?
+42. Why did Dolores pick up the bullets?
 Because the jail door was unlocked.
 
 Very Bad Answer 
@@ -559,7 +335,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-68. Why did Dolores pick up the bullets?
+43. Why did Dolores pick up the bullets?
 Because Dolores was not sure whether the revolver was loaded.
 
 Very Bad Answer 
@@ -567,7 +343,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-69. What was the consequence of Dolores loading the revolver?
+44. What was the consequence of Dolores loading the revolver?
 She was able to shoot at the jail door successfully.
 
 Very Bad Answer 
@@ -575,7 +351,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-69. Why did Dolores load the revolver?
+44. Why did Dolores load the revolver?
 Because she shot at the jail door lock.
 
 Very Bad Answer 
@@ -583,7 +359,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-70. What was the consequence of Dolores loading the revolver?
+45. What was the consequence of Dolores loading the revolver?
 She was able to walk out of the jail cell.
 
 Very Bad Answer 
@@ -591,23 +367,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-70. Why did Dolores load the revolver?
-Because she walked out of the jail cell.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-71. Why did Dolores load the revolver?
-Because she wanted to load the revolver.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-72. Why did Dolores load the revolver?
+45. Why did Dolores load the revolver?
 Because she wanted to shoot at the jail door lock.
 
 Very Bad Answer 
@@ -615,15 +375,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-73. Why did Dolores load the revolver?
-In order to escape from prison.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-74. Why did Dolores load the revolver?
+46. Why did Dolores load the revolver?
 Because the revolver was loaded.
 
 Very Bad Answer 
@@ -631,15 +383,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-75. Why did Dolores load the revolver?
-Because the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-76. Why did Dolores load the revolver?
+47. Why did Dolores load the revolver?
 Because the jail door was locked.
 
 Very Bad Answer 
@@ -647,7 +391,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-77. Why did Dolores load the revolver?
+48. Why did Dolores load the revolver?
 Because Dolores believed that the revolver was loaded.
 
 Very Bad Answer 
@@ -655,15 +399,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-78. Why did Dolores load the revolver?
-Because Dolores believed that the revolver was not loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-79. Why did Dolores load the revolver?
+49. Why did Dolores load the revolver?
 Because the jail door was unlocked.
 
 Very Bad Answer 
@@ -671,15 +407,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-80. Why did Dolores load the revolver?
-Because Dolores was not sure whether the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-81. What was the consequence of Dolores successfully shooting the jail door open?
+50. What was the consequence of Dolores successfully shooting the jail door open?
 She was able to walk out of the jail cell.
 
 Very Bad Answer 
@@ -687,15 +415,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-81. Why did Dolores shoot at the door lock?
-Because she walked out of the jail cell.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-82. Why did Dolores shoot at the door lock?
+50. Why did Dolores shoot at the door lock?
 Because she wanted to shoot at the jail door lock.
 
 Very Bad Answer 
@@ -703,23 +423,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-83. Why did Dolores shoot at the door lock?
-In order to escape from prison.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-84. Why did Dolores shoot at the door lock?
-Because the revolver was loaded.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-85. Why did Dolores shoot at the door lock?
+51. Why did Dolores shoot at the door lock?
 Because the jail door was locked.
 
 Very Bad Answer 
@@ -727,7 +431,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-86. Why did Dolores shoot at the door lock?
+52. Why did Dolores shoot at the door lock?
 Because Dolores believed that the revolver was loaded.
 
 Very Bad Answer 
@@ -735,7 +439,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-87. Why did Dolores shoot at the door lock?
+53. Why did Dolores shoot at the door lock?
 Because the jail door was unlocked.
 
 Very Bad Answer 
@@ -743,7 +447,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-88. Why did Dolores shoot at the door lock?
+54. Why did Dolores shoot at the door lock?
 Because Dolores was not sure whether the revolver was loaded.
 
 Very Bad Answer 
@@ -751,15 +455,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-89. Why did Dolores walk out of the jail cell?
-In order to escape from prison.
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
-
-90. Why did Dolores walk out of the jail cell?
+55. Why did Dolores walk out of the jail cell?
 Because Dolores believed that the revolver was loaded.
 
 Very Bad Answer 
@@ -767,7 +463,7 @@ Bad Answer
 Good Answer 
 Very Good Answer 
 
-91. Why did Dolores walk out of the jail cell?
+56. Why did Dolores walk out of the jail cell?
 Because the jail door was unlocked.
 
 Very Bad Answer 
