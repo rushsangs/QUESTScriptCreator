@@ -62,9 +62,6 @@ def GeneratePairsFromSpreadsheet():
     "values": pairs
     }, SAMPLE_RANGE_NAME="A2:AA1000")
 
-
-def generatePairsFromGraph():
-    G = createGraph()
     
 def main():
     GeneratePairsFromSpreadsheet()
