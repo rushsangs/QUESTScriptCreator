@@ -1,5 +1,6 @@
 import networkx as nx
 from sheet_api import *
+from random import random
 
 
 class QKSNode:
@@ -33,14 +34,14 @@ def createGraph():
     for row in rows:
         G.add_nodes_from([
             (QKSNode(row[0], row[1], row[3], row[4], row[5],
-                     rows[7], rows[8], rows[9]), {'type': row[1]})
+                     row[7], row[8], row[9]), {'type': row[1]})
         ])
     edges = readFromSheet(RANGE="Sheet3Edges!A2:AA2000")
     for edge in edges:
         # find the two nodes for the edge
         node1 = [n for n in list(G.nodes) if n.id == edge[1]][0]
         node2 = [n for n in list(G.nodes) if n.id == edge[2]][0]
-        G.add_edge(node1, node2, type=edge[0])
+        G.add_edge(node1, node2, type = edge[0])
     showGraph(G)
     return G
 
@@ -60,12 +61,17 @@ def generatePairsFromGraph():
     # each event node as a question
     nodepairs = []
     for node in list(G.nodes):
-        if(node.nodetype == 'EVENT'):
+        # print(node)
+        # print(node.failednode)
+        if(node.nodetype == 'GOAL' or node.nodetype == 'EVENT'):
             distance = 0
             path = ''
             createWhyPairs(G, node, node, distance, path, nodepairs)
-            # traverse backward Cs or backward Is to generate pair
+            if(len(node.consquestion)>0):
+                print('found node with cons question')
+                createConsPairs(G, node, node, 0, '', nodepairs)
 
+    nodepairs = reduceNodePairs(nodepairs)
     return nodepairs
 
 
@@ -75,24 +81,113 @@ def createWhyPairs(G, root, current, distance, path, nodepairs):
     distance += 1
     for pre in G.predecessors(current):
         if(G[pre][current]['type'] == "C" or G[pre][current]['type'] == "I" or G[pre][current]['type'] == "O+" or G[pre][current]['type'] == "O-"):
-            nodepairs.append({
+            addBeforeChecking({
                  'question': root,
                  'answer': pre,
                  'distance': distance,
-                 'path': path + ' backward ' + G[pre][current]['type']
-                 })
+                 'path': path + ' backward ' + G[pre][current]['type'],
+                 'pairtype': 'Why Question'
+                 }, nodepairs)
             createWhyPairs(G, root, pre, distance, path+' backward '+ G[pre][current]['type'], nodepairs)
     # traverse forward Rs
     for succ in G.successors(current):
         if(G[current][succ]['type'] == "R"):
-            nodepairs.append(
-                {'question': root, 'answer': succ, 'distance': distance, 'path': path+'forward '+G[current][succ]['type']})
-            createWhyPairs(G, root, succ, distance, path+'forward '+G[current][succ]['type'], nodepairs)
+            addBeforeChecking(
+                {'question': root, 'answer': succ, 'distance': distance, 'path': path+'forward '+G[current][succ]['type'], 'pairtype': 'Why Question'},
+                nodepairs)
+            createWhyPairs(G, root, succ, distance, path+' forward '+G[current][succ]['type'], nodepairs)
 
 
+def createConsPairs(G, root, current, distance, path, nodepairs):
+    createGoodConsPairs(G, root, current, distance, path, nodepairs)
+    createBadConsPairs(G, nodepairs)
+
+#inserts consequence pairs that have ZERO arc distance
+def createBadConsPairs(G, nodepairs):
+    conslist = [node for node in G if (len(node.consquestion)> 0 and len(node.consanswer) > 0)]
+    newnodepairs = [{
+            'question': node1,
+            'answer' : node2,
+            'distance': 99,
+            'path': 'NA',
+            'pairtype' : 'Comprehension Check'
+        } 
+        for node1 in G 
+        for node2 in G 
+        if len(node1.consquestion)> 0 and node1 != node2 and len(node2.consanswer)> 0
+    ]
+    print('bad pairs:')
+    print(newnodepairs)
+    for n in newnodepairs:
+        addBeforeChecking(n, nodepairs)
+
+
+#recursive function
+def createGoodConsPairs(G, root, current, distance, path, nodepairs):
+    distance += 1
+    # traverse forward Rs, Cs, Os or Is
+    for succ in G.successors(current):
+        if(G[current][succ]['type'] == "R" or G[current][succ]['type'] == "C" or G[current][succ]['type'] == "O+" or  G[current][succ]['type'] == "O-" or G[current][succ]['type'] == "I"):
+            if(len(succ.consanswer)>0):
+                addBeforeChecking(
+                {'question': root, 'answer': succ, 'distance': distance, 'path': path+'forward '+G[current][succ]['type'], 'pairtype': 'Comprehension Check'},
+                nodepairs)
+            createGoodConsPairs(G, root, succ, distance, path+' forward '+G[current][succ]['type'], nodepairs)
+
+#checks if same pair of nodes are present in the nodepairs
+# retains only the pair that has the lowest distance
+def addBeforeChecking(nodepair, nodepairs):
+    candidate = [p for p in nodepairs if (p['question'] == nodepair['question'] and p['answer'] == nodepair['answer'] and p['pairtype'] == nodepair['pairtype'])]
+    if(len(candidate) == 0):
+        nodepairs.append(nodepair)
+    elif(candidate[0]['distance']> nodepair['distance']):
+        nodepairs.remove(candidate[0])
+        nodepairs.append(nodepair)
+
+# there can be different nodes in the graph that represent the same goal/state.
+# this method removes the pairs for them, keeping the one with the shortest arc distance    
+def reduceNodePairs(nodepairs):
+    toremove = []
+    for nodepair in list(nodepairs):
+        for np in list(nodepairs):
+            if(np['question'].title == nodepair['question'].title and np['answer'].title == nodepair['answer'].title and  nodepair['pairtype'] == np['pairtype'] and nodepair != np):
+                if(np['distance']>nodepair['distance']):
+                    toremove.append(np)
+                else:
+                    toremove.append(nodepair)
+    nodepairs = [n for n in nodepairs if n not in toremove]
+    
+    toremove = []
+    for np in nodepairs:
+        if ('Y' in np['question'].failednode or 'Y' in np['answer'].failednode):
+            continue
+        elif(random()<0.6):
+            #sample with probability of 60 percent
+            toremove.append(np)
+    nodepairs = [n for n in nodepairs if n not in toremove]
+    return nodepairs   
+
+def generatePairText(nodepair):
+    if(nodepair['pairtype'] == "Why Question"):
+        return nodepair['question'].whyquestion + '\n' + nodepair['answer'].whyanswer
+    else:
+        return nodepair['question'].consquestion + '\n' + nodepair['answer'].consanswer
+
+#write to google sheets API
+def createPairs(nodepairs):
+    pairs = []
+    for i in range(1, len(nodepairs)):
+        pairs.append([i,
+          generatePairText(nodepairs[i]),
+          nodepairs[i]['pairtype'],
+          nodepairs[i]['distance'],
+          nodepairs[i]['path']])
+    writeToSheet(body = {
+    "values": pairs
+    }, SAMPLE_RANGE_NAME="A2:AA1000")
 
 def main():
-    generatePairsFromGraph()
+    createPairs(generatePairsFromGraph())
 
 
 main()
