@@ -68,7 +68,6 @@ def generatePairsFromGraph():
             path = ''
             createWhyPairs(G, node, node, distance, path, nodepairs)
             if(len(node.consquestion)>0):
-                print('found node with cons question')
                 createConsPairs(G, node, node, 0, '', nodepairs)
 
     nodepairs = reduceNodePairs(nodepairs)
@@ -116,8 +115,6 @@ def createBadConsPairs(G, nodepairs):
         for node2 in G 
         if len(node1.consquestion)> 0 and node1 != node2 and len(node2.consanswer)> 0
     ]
-    print('bad pairs:')
-    print(newnodepairs)
     for n in newnodepairs:
         addBeforeChecking(n, nodepairs)
 
@@ -161,9 +158,14 @@ def reduceNodePairs(nodepairs):
     for np in nodepairs:
         if ('Y' in np['question'].failednode or 'Y' in np['answer'].failednode):
             continue
-        elif(random()<0.6):
-            #sample with probability of 60 percent
-            toremove.append(np)
+        elif(np['pairtype'] == 'Why Question'):
+            #sample with probability of 30 percent for why type questions
+            if(random()<0.7):
+                toremove.append(np)
+        else:
+            #sample with probability of 60 percent for consequence check questions
+            if(random()<0.4):
+                toremove.append(np)
     nodepairs = [n for n in nodepairs if n not in toremove]
     return nodepairs   
 
@@ -173,7 +175,15 @@ def generatePairText(nodepair):
     else:
         return nodepair['question'].consquestion + '\n' + nodepair['answer'].consanswer
 
-#write to google sheets API
+#print as survey block
+def printAsSurveyBlock(pairs):
+    res = ""
+    res += "[[Block: Imported From Code]]"
+    for pair in pairs:
+        res+= "\n" + str(pair[0]) +". " + pair[1] + "\n\n" 
+        res+= "Very Bad Answer \nBad Answer \nGood Answer \nVery Good Answer \n"
+    return res
+
 def createPairs(nodepairs):
     pairs = []
     for i in range(1, len(nodepairs)):
@@ -182,6 +192,14 @@ def createPairs(nodepairs):
           nodepairs[i]['pairtype'],
           nodepairs[i]['distance'],
           nodepairs[i]['path']])
+    
+    # opening a file in 'w'
+    file = open('pairs.txt', 'w')
+    file.write(printAsSurveyBlock(pairs))
+    file.close()
+    print('[LOG]Generated ' + str(i-1) + ' questions.' )
+
+    #write to google sheets API
     writeToSheet(body = {
     "values": pairs
     }, SAMPLE_RANGE_NAME="A2:AA1000")
