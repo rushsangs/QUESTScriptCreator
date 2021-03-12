@@ -30,13 +30,13 @@ class QKSNode:
 def createGraph():
     # will create a QKS graphical structure
     G = nx.DiGraph()
-    rows = readFromSheet(RANGE="Sheet3!A2:AA2000")
+    rows = readFromSheet(RANGE="RefillShortNodes!A2:AA2000")
     for row in rows:
         G.add_nodes_from([
             (QKSNode(row[0], row[1], row[3], row[4], row[5],
                      row[7], row[8], row[9]), {'type': row[1]})
         ])
-    edges = readFromSheet(RANGE="Sheet3Edges!A2:AA2000")
+    edges = readFromSheet(RANGE="RefillShortEdges!A2:AA2000")
     for edge in edges:
         # find the two nodes for the edge
         node1 = [n for n in list(G.nodes) if n.id == edge[1]][0]
@@ -160,28 +160,32 @@ def reduceNodePairs(nodepairs):
             continue
         elif(np['pairtype'] == 'Why Question'):
             #sample with probability of 30 percent for why type questions
-            if(random()<0.7):
+            if(random()<0):
                 toremove.append(np)
         else:
             #sample with probability of 60 percent for consequence check questions
-            if(random()<0.4):
+            if(random()<0):
                 toremove.append(np)
     nodepairs = [n for n in nodepairs if n not in toremove]
     return nodepairs   
 
 def generatePairText(nodepair):
     if(nodepair['pairtype'] == "Why Question"):
-        return nodepair['question'].whyquestion + '\n' + nodepair['answer'].whyanswer
+        return "Question: " + nodepair['question'].whyquestion + '\n ' + "Answer: " +nodepair['answer'].whyanswer
     else:
-        return nodepair['question'].consquestion + '\n' + nodepair['answer'].consanswer
+        return "Question: " + nodepair['question'].consquestion + '\n ' + "Answer: " +nodepair['answer'].consanswer
 
 #print as survey block
 def printAsSurveyBlock(pairs):
     res = ""
     res += "[[Block: Imported From Code]]"
+    number = 1
     for pair in pairs:
-        res+= "\n" + str(pair[0]) +". " + pair[1] + "\n\n" 
-        res+= "Very Bad Answer \nBad Answer \nGood Answer \nVery Good Answer \n"
+        res= res + "\n" + str(number) + ". " + " Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. \n\n " 
+        res = res + str(number+1) +". " + str(pair[1])
+        res = res + "\n\n " + str(number+2) + ". " + ' Rate this question-answer pair on the scale: ' + "\n\n" 
+        res+= "Very Bad Answer \nBad Answer \nGood Answer \nVery Good Answer \n \n [[PageBreak]]"
+        number = number + 3 
     return res
 
 def createPairs(nodepairs):
@@ -202,7 +206,8 @@ def createPairs(nodepairs):
     #write to google sheets API
     writeToSheet(body = {
     "values": pairs
-    }, SAMPLE_RANGE_NAME="A2:AA1000")
+    }, SAMPLE_RANGE_NAME="Sheet4!A2:AA1000")
+    print('done')
 
 def main():
     createPairs(generatePairsFromGraph())
