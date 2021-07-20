@@ -1,10 +1,10 @@
 [[Block: Imported From Code]]
 1.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 2. Question: What was the consequence of Dolores loading the revolver?
- Answer: She was able to walk out of the jail cell.
+ 2. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: Dolores had the bullets.
 
- 3.  Rate this question-answer pair on the scale: 
+ 3.  Question 1 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -14,10 +14,10 @@ Very Good Answer
  [[PageBreak]]
 4.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 5. Question: Why did Dolores try to (unsuccessfully) shoot at the door lock? Why did Dolores' attempt to shoot fail?
- Answer: Because the revolver was not loaded.
+ 5. Question: Why did Dolores walk out of the jail cell?
+ Answer: In order to escape from prison.
 
- 6.  Rate this question-answer pair on the scale: 
+ 6.  Question 2 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -27,10 +27,10 @@ Very Good Answer
  [[PageBreak]]
 7.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 8. Question: Why did Dolores want to pick up the bullets?
- Answer: Because the revolver was not loaded.
+ 8. Question: Why did Dolores want to pick up the revolver?
+ Answer: Because she wanted to shoot at the jail door lock.
 
- 9.  Rate this question-answer pair on the scale: 
+ 9.  Question 3 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -40,10 +40,10 @@ Very Good Answer
  [[PageBreak]]
 10.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 11. Question: Why did Dolores try to (unsuccessfully) shoot at the door lock? Why did Dolores' attempt to shoot fail?
- Answer: In order to escape from prison.
+ 11. Question: Why did Dolores shoot at the door lock?
+ Answer: Because the jail door was locked.
 
- 12.  Rate this question-answer pair on the scale: 
+ 12.  Question 4 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -53,10 +53,10 @@ Very Good Answer
  [[PageBreak]]
 13.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 14. Question: Why did Dolores load the revolver?
- Answer: Because the jail door was locked.
+ 14. Question: How did Dolores escape from prison?
+ Answer: She shot the jail door lock sucessfully unlocking it.
 
- 15.  Rate this question-answer pair on the scale: 
+ 15.  Question 5 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -66,10 +66,10 @@ Very Good Answer
  [[PageBreak]]
 16.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 17. Question: Why did Dolores shoot at the door lock?
- Answer: Because the revolver was not loaded.
+ 17. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: She shot at the jail door successfully unlocking it.
 
- 18.  Rate this question-answer pair on the scale: 
+ 18.  Question 6 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -79,10 +79,10 @@ Very Good Answer
  [[PageBreak]]
 19.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 20. Question: What was the consequence of Dolores picking up the bullets?
- Answer: She was able to walk out of the jail cell.
+ 20. Question: Why did Dolores want to shoot at the jail door lock?
+ Answer: In order to escape from prison.
 
- 21.  Rate this question-answer pair on the scale: 
+ 21.  Question 7 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -93,9 +93,9 @@ Very Good Answer
 22.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
  23. Question: Why did Dolores walk out of the jail cell?
- Answer: Because she failed to shoot at the door lock.
+ Answer: Because she shot at the jail door lock.
 
- 24.  Rate this question-answer pair on the scale: 
+ 24.  Question 8 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -105,10 +105,10 @@ Very Good Answer
  [[PageBreak]]
 25.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 26. Question: Why did Dolores walk out of the jail cell?
- Answer: Because Dolores believed that the revolver was not loaded.
+ 26. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: She shot at the jail door successfully unlocking it.
 
- 27.  Rate this question-answer pair on the scale: 
+ 27.  Question 9 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -118,10 +118,10 @@ Very Good Answer
  [[PageBreak]]
 28.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 29. Question: Why did Dolores shoot at the door lock?
- Answer: Because she loaded the gun.
+ 29. Question: Why did Dolores walk out of the jail cell?
+ Answer: Because Dolores believed that the revolver was loaded.
 
- 30.  Rate this question-answer pair on the scale: 
+ 30.  Question 10 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -131,10 +131,10 @@ Very Good Answer
  [[PageBreak]]
 31.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 32. Question: Why did Dolores load the revolver?
- Answer: Because she wanted to pick up the revolver.
+ 32. Question: How did Dolores escape from prison?
+ Answer: She picked up the revolver.
 
- 33.  Rate this question-answer pair on the scale: 
+ 33.  Question 11 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -144,10 +144,10 @@ Very Good Answer
  [[PageBreak]]
 34.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 35. Question: Why did Dolores try to (unsuccessfully) shoot at the door lock? Why did Dolores' attempt to shoot fail?
- Answer: Because she wanted to pick up the revolver.
+ 35. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: Dolores was not sure whether the revolver was loaded.
 
- 36.  Rate this question-answer pair on the scale: 
+ 36.  Question 12 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -158,9 +158,9 @@ Very Good Answer
 37.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
  38. Question: Why did Dolores walk out of the jail cell?
- Answer: Because Dolores was not sure whether the revolver was loaded.
+ Answer: Because the jail door was locked.
 
- 39.  Rate this question-answer pair on the scale: 
+ 39.  Question 13 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -170,10 +170,10 @@ Very Good Answer
  [[PageBreak]]
 40.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 41. Question: Why did Dolores load the revolver?
- Answer: Because she failed to shoot at the door lock.
+ 41. Question: Why did Dolores shoot at the door lock?
+ Answer: Because Dolores believed that the revolver was loaded.
 
- 42.  Rate this question-answer pair on the scale: 
+ 42.  Question 14 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -183,10 +183,10 @@ Very Good Answer
  [[PageBreak]]
 43.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 44. Question: Why did Dolores pick up the bullets?
- Answer: Because she wanted to pick up the revolver.
+ 44. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: The jail door was unlocked.
 
- 45.  Rate this question-answer pair on the scale: 
+ 45.  Question 15 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -196,10 +196,10 @@ Very Good Answer
  [[PageBreak]]
 46.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 47. Question: Why did Dolores load the revolver?
- Answer: Because she picked up the bullets.
+ 47. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: Dolores had the revolver.
 
- 48.  Rate this question-answer pair on the scale: 
+ 48.  Question 16 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -209,10 +209,10 @@ Very Good Answer
  [[PageBreak]]
 49.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 50. Question: Why did Dolores pick up the bullets?
- Answer: Because the jail door was locked.
+ 50. Question: Why did Dolores walk out of the jail cell?
+ Answer: Because the revolver was loaded.
 
- 51.  Rate this question-answer pair on the scale: 
+ 51.  Question 17 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -222,10 +222,10 @@ Very Good Answer
  [[PageBreak]]
 52.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 53. Question: Why did Dolores walk out of the jail cell?
- Answer: Because she wanted to pick up the revolver bullets.
+ 53. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: She picked up the revolver.
 
- 54.  Rate this question-answer pair on the scale: 
+ 54.  Question 18 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -235,10 +235,10 @@ Very Good Answer
  [[PageBreak]]
 55.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 56. Question: Why did Dolores shoot at the door lock?
- Answer: Because she checked the barrel and found that it was empty.
+ 56. Question: Why did Dolores walk out of the jail cell?
+ Answer: Because she picked up the revolver.
 
- 57.  Rate this question-answer pair on the scale: 
+ 57.  Question 19 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -248,10 +248,10 @@ Very Good Answer
  [[PageBreak]]
 58.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 59. Question: Why did Dolores want to check the revolver barrel?
- Answer: Because she failed to shoot at the door lock.
+ 59. Question: Why did Dolores walk out of the jail cell?
+ Answer: Because she wanted to shoot at the jail door lock.
 
- 60.  Rate this question-answer pair on the scale: 
+ 60.  Question 20 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -261,10 +261,10 @@ Very Good Answer
  [[PageBreak]]
 61.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 62. Question: Why did Dolores pick up the bullets?
- Answer: Because she wanted to shoot at the jail door lock.
+ 62. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: The revolver was not loaded.
 
- 63.  Rate this question-answer pair on the scale: 
+ 63.  Question 21 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -274,10 +274,10 @@ Very Good Answer
  [[PageBreak]]
 64.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 65. Question: Why did Dolores check the revolver barrel?
- Answer: Because she wanted to shoot at the jail door lock.
+ 65. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: She attempted to shoot at the jail door lock.
 
- 66.  Rate this question-answer pair on the scale: 
+ 66.  Question 22 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -287,10 +287,10 @@ Very Good Answer
  [[PageBreak]]
 67.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 68. Question: Why did Dolores walk out of the jail cell?
- Answer: Because she checked the barrel and found that it was empty.
+ 68. Question: Why did Dolores shoot at the door lock?
+ Answer: Because the revolver was loaded.
 
- 69.  Rate this question-answer pair on the scale: 
+ 69.  Question 23 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -300,10 +300,10 @@ Very Good Answer
  [[PageBreak]]
 70.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 71. Question: Why did Dolores load the revolver?
- Answer: Because she wanted to shoot at the jail door lock.
+ 71. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: The revolver was not loaded.
 
- 72.  Rate this question-answer pair on the scale: 
+ 72.  Question 24 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -313,10 +313,10 @@ Very Good Answer
  [[PageBreak]]
 73.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 74. Question: Why did Dolores try to (unsuccessfully) shoot at the door lock? Why did Dolores' attempt to shoot fail?
- Answer: Because the jail door was locked.
+ 74. Question: Why did Dolores walk out of the jail cell?
+ Answer: Because she wanted to pick up the revolver.
 
- 75.  Rate this question-answer pair on the scale: 
+ 75.  Question 25 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -326,10 +326,10 @@ Very Good Answer
  [[PageBreak]]
 76.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 77. Question: Why did Dolores want to pick up the bullets?
- Answer: In order to escape from prison.
+ 77. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: Dolores believed that the revolver was not loaded.
 
- 78.  Rate this question-answer pair on the scale: 
+ 78.  Question 26 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -339,10 +339,10 @@ Very Good Answer
  [[PageBreak]]
 79.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 80. Question: Why did Dolores load the revolver?
- Answer: Because she picked up the revolver.
+ 80. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: She shot at the jail door successfully.
 
- 81.  Rate this question-answer pair on the scale: 
+ 81.  Question 27 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -352,10 +352,10 @@ Very Good Answer
  [[PageBreak]]
 82.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 83. Question: Why did Dolores load the revolver?
- Answer: Because she had the bullets
+ 83. Question: Why did Dolores want to pick up the revolver?
+ Answer: In order to escape from prison.
 
- 84.  Rate this question-answer pair on the scale: 
+ 84.  Question 28 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -365,10 +365,10 @@ Very Good Answer
  [[PageBreak]]
 85.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 86. Question: Why did Dolores want to pick up the bullets?
- Answer: Because she failed to shoot at the door lock.
+ 86. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: She picked up the revolver.
 
- 87.  Rate this question-answer pair on the scale: 
+ 87.  Question 29 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -378,10 +378,10 @@ Very Good Answer
  [[PageBreak]]
 88.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 89. Question: Why did Dolores try to (unsuccessfully) shoot at the door lock? Why did Dolores' attempt to shoot fail?
- Answer: Because she wanted to shoot at the jail door lock.
+ 89. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: She picked up the revolver.
 
- 90.  Rate this question-answer pair on the scale: 
+ 90.  Question 30 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -391,10 +391,10 @@ Very Good Answer
  [[PageBreak]]
 91.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 92. Question: Why did Dolores check the revolver barrel?
- Answer: Because the revolver was not loaded.
+ 92. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: She walked out of the jail cell.
 
- 93.  Rate this question-answer pair on the scale: 
+ 93.  Question 31 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -404,10 +404,10 @@ Very Good Answer
  [[PageBreak]]
 94.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 95. Question: Why did Dolores shoot at the door lock?
- Answer: Because she wanted to check the revolver barrel.
+ 95. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: Dolores had the revolver.
 
- 96.  Rate this question-answer pair on the scale: 
+ 96.  Question 32 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -417,10 +417,10 @@ Very Good Answer
  [[PageBreak]]
 97.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 98. Question: Why did Dolores walk out of the jail cell?
- Answer: Because she had the bullets
+ 98. Question: Why did Dolores shoot at the door lock?
+ Answer: In order to escape from prison.
 
- 99.  Rate this question-answer pair on the scale: 
+ 99.  Question 33 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -430,10 +430,10 @@ Very Good Answer
  [[PageBreak]]
 100.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 101. Question: Why did Dolores want to pick up the bullets?
- Answer: Because she wanted to shoot at the jail door lock.
+ 101. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: She escaped from prison.
 
- 102.  Rate this question-answer pair on the scale: 
+ 102.  Question 34 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -443,10 +443,10 @@ Very Good Answer
  [[PageBreak]]
 103.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 104. Question: Why did Dolores load the revolver?
- Answer: Because she wanted to check the revolver barrel.
+ 104. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: The jail door was unlocked.
 
- 105.  Rate this question-answer pair on the scale: 
+ 105.  Question 35 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -456,10 +456,10 @@ Very Good Answer
  [[PageBreak]]
 106.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 107. Question: Why did Dolores shoot at the door lock?
- Answer: Because Dolores believed that the revolver was loaded.
+ 107. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: She attempted to shoot at the jail door lock.
 
- 108.  Rate this question-answer pair on the scale: 
+ 108.  Question 36 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -469,10 +469,10 @@ Very Good Answer
  [[PageBreak]]
 109.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 110. Question: Why did Dolores load the revolver?
- Answer: Because the revolver was not loaded.
+ 110. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: She walked out of the jail cell.
 
- 111.  Rate this question-answer pair on the scale: 
+ 111.  Question 37 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -482,10 +482,10 @@ Very Good Answer
  [[PageBreak]]
 112.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 113. Question: Why did Dolores pick up the bullets?
- Answer: In order to escape from prison.
+ 113. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: Dolores had the bullets.
 
- 114.  Rate this question-answer pair on the scale: 
+ 114.  Question 38 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -495,10 +495,10 @@ Very Good Answer
  [[PageBreak]]
 115.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 116. Question: Why did Dolores try to (unsuccessfully) shoot at the door lock? Why did Dolores' attempt to shoot fail?
- Answer: Because Dolores believed that the revolver was loaded.
+ 116. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: Dolores was not sure whether the revolver was loaded.
 
- 117.  Rate this question-answer pair on the scale: 
+ 117.  Question 39 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -508,10 +508,10 @@ Very Good Answer
  [[PageBreak]]
 118.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 119. Question: Why did Dolores pick up the bullets?
- Answer: Because Dolores was not sure whether the revolver was loaded.
+ 119. Question: Why did Dolores walk out of the jail cell?
+ Answer: Because Dolores had the gun
 
- 120.  Rate this question-answer pair on the scale: 
+ 120.  Question 40 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -521,10 +521,10 @@ Very Good Answer
  [[PageBreak]]
 121.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 122. Question: Why did Dolores shoot at the door lock?
- Answer: Because she failed to shoot at the door lock.
+ 122. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: Dolores believed that the revolver was not loaded.
 
- 123.  Rate this question-answer pair on the scale: 
+ 123.  Question 41 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -534,10 +534,10 @@ Very Good Answer
  [[PageBreak]]
 124.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 125. Question: Why did Dolores shoot at the door lock?
- Answer: Because the revolver was loaded.
+ 125. Question: Why did Dolores pick up the revolver?
+ Answer: Because Dolores believed that the revolver was loaded.
 
- 126.  Rate this question-answer pair on the scale: 
+ 126.  Question 42 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -547,10 +547,10 @@ Very Good Answer
  [[PageBreak]]
 127.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 128. Question: Why did Dolores try to (unsuccessfully) shoot at the door lock? Why did Dolores' attempt to shoot fail?
- Answer: Because she picked up the revolver.
+ 128. Question: How did Dolores shoot at the jail door lock?
+ Answer: She picked up the revolver.
 
- 129.  Rate this question-answer pair on the scale: 
+ 129.  Question 43 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -561,9 +561,9 @@ Very Good Answer
 130.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
  131. Question: Why did Dolores shoot at the door lock?
- Answer: Because she had the bullets
+ Answer: Because she picked up the revolver.
 
- 132.  Rate this question-answer pair on the scale: 
+ 132.  Question 44 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -573,10 +573,10 @@ Very Good Answer
  [[PageBreak]]
 133.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 134. Question: Why did Dolores check the revolver barrel?
- Answer: Because she failed to shoot at the door lock.
+ 134. Question: Why did Dolores walk out of the jail cell?
+ Answer: Because the jail door was unlocked.
 
- 135.  Rate this question-answer pair on the scale: 
+ 135.  Question 45 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -586,10 +586,10 @@ Very Good Answer
  [[PageBreak]]
 136.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 137. Question: Why did Dolores pick up the bullets?
- Answer: Because she failed to shoot at the door lock.
+ 137. Question: What was the consequence of Dolores picking up the revolver?
+ Answer: Dolores had the revolver.
 
- 138.  Rate this question-answer pair on the scale: 
+ 138.  Question 46 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 
@@ -599,114 +599,10 @@ Very Good Answer
  [[PageBreak]]
 139.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
 
- 140. Question: What was the consequence of Dolores picking up the bullets?
- Answer: She was able to shoot at the jail door successfully.
+ 140. Question: What was the consequence of Dolores successfully shooting the jail door open?
+ Answer: She picked up the revolver.
 
- 141.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-142.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 143. Question: What was the consequence of Dolores successfully shooting the jail door open?
- Answer: She was able to load the revolver with the bullets
-
- 144.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-145.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 146. Question: Why did Dolores shoot at the door lock?
- Answer: Because Dolores had the gun
-
- 147.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-148.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 149. Question: Why did Dolores pick up the bullets?
- Answer: Because she wanted to shoot at the jail door lock.
-
- 150.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-151.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 152. Question: Why did Dolores walk out of the jail cell?
- Answer: Because she picked up the revolver.
-
- 153.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-154.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 155. Question: Why did Dolores check the revolver barrel?
- Answer: Because she wanted to pick up the revolver.
-
- 156.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-157.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 158. Question: Why did Dolores shoot at the door lock?
- Answer: Because she wanted to shoot at the jail door lock.
-
- 159.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-160.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 161. Question: Why did Dolores load the revolver?
- Answer: Because she wanted to pick up the revolver bullets.
-
- 162.  Rate this question-answer pair on the scale: 
-
-Very Bad Answer 
-Bad Answer 
-Good Answer 
-Very Good Answer 
- 
- [[PageBreak]]
-163.  Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. 
-
- 164. Question: Why did Dolores walk out of the jail cell?
- Answer: Because the revolver was loaded.
-
- 165.  Rate this question-answer pair on the scale: 
+ 141.  Question 47 of 47 Rate this question-answer pair on the scale: 
 
 Very Bad Answer 
 Bad Answer 

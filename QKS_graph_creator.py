@@ -5,8 +5,9 @@ from random import random
 
 WHYPROB = 1
 CONSPROB = 1
+HOWPROB = 1
 class QKSNode:
-    def __init__(self, id, nodetype, title, whyquestion, whyanswer, consquestion, consanswer, failednode, code):
+    def __init__(self, id, nodetype, title, whyquestion, whyanswer, consquestion, consanswer, howquestion, failednode, code):
         self.id = id
         self.title = title
         self.nodetype = nodetype
@@ -14,6 +15,7 @@ class QKSNode:
         self.whyanswer = whyanswer
         self.consquestion = consquestion
         self.consanswer = consanswer
+        self.howquestion = howquestion
         self.failednode = failednode
         self.code = code
 
@@ -37,7 +39,7 @@ def createGraph(nodes_sheet, edges_sheet):
     for row in rows:
         G.add_nodes_from([
             (QKSNode(row[0], row[1], row[3], row[4], row[5],
-                     row[7], row[8], row[9], row[10]), {'type': row[1]})
+                     row[7], row[8], row[6], row[9], row[10]), {'type': row[1]})
         ])
     edges = readFromSheet(RANGE=edges_sheet)
     for edge in edges:
@@ -49,8 +51,6 @@ def createGraph(nodes_sheet, edges_sheet):
     return G
 
 # prints nodes and edges of the graph
-
-
 def showGraph(G):
     for e in list(G.nodes):
         print(e.title)
@@ -72,7 +72,8 @@ def generateNodePairsFromGraph(nodes_sheet, edges_sheet):
             createWhyPairs(G, node, node, distance, path, nodepairs)
             if(len(node.consquestion)>0):
                 createConsPairs(G, node, node, 0, '', nodepairs)
-
+            if(len(node.howquestion)>0):
+                createHowPairs(G, node, node, 0, '', nodepairs)
     nodepairs = reduceNodePairs(nodepairs)
     return nodepairs
 
@@ -105,7 +106,21 @@ def createWhyPairs(G, root, current, distance, path, nodepairs):
                 }, nodepairs)
             createWhyPairs(G, root, succ, distance, path+' forward '+G[current][succ]['type'], nodepairs)
 
-
+def createHowPairs(G, root, current, distance, path, nodepairs):
+    #traverse backward Rs, Is to generate pair
+    distance += 1
+    for pre in G.predecessors(current):
+        if(G[pre][current]['type'] == "R") or G[pre][current]['type'] == "I":
+            addBeforeChecking({
+                 'question': root,
+                 'answer': pre,
+                 'distance': distance,
+                 'path': path + ' backward ' + G[pre][current]['type'],
+                 'pairtype': 'How Question',
+                 'code': root.code + pre.code
+                 }, nodepairs)
+            createHowPairs(G, root, pre, distance, path+' backward '+ G[pre][current]['type'], nodepairs)
+    
 def createConsPairs(G, root, current, distance, path, nodepairs):
     createGoodConsPairs(G, root, current, distance, path, nodepairs)
     createBadConsPairs(G, nodepairs)
@@ -177,6 +192,10 @@ def reduceNodePairs(nodepairs):
             #sample with probability for why type questions
             if(random()< (1 - WHYPROB)):
                 toremove.append(np)
+        elif(np['pairtype'] == 'How Question'):
+            #sample with probability for how type questions
+            if(random()< (1 - HOWPROB)):
+                toremove.append(np)
         else:
             #sample with probability for consequence check questions
             if(random()<(1-CONSPROB)):
@@ -187,18 +206,20 @@ def reduceNodePairs(nodepairs):
 def generatePairText(nodepair):
     if(nodepair['pairtype'] == "Why Question"):
         return "Question: " + nodepair['question'].whyquestion + '\n ' + "Answer: " +nodepair['answer'].whyanswer
+    elif(nodepair['pairtype'] == "How Question"):
+        return "Question: " + nodepair['question'].howquestion + '\n ' + "Answer: " +nodepair['answer'].consanswer
     else:
         return "Question: " + nodepair['question'].consquestion + '\n ' + "Answer: " +nodepair['answer'].consanswer
 
 #print as survey block
-def printAsSurveyBlock(pairs):
+def printAsSurveyBlock(pairs, storytext):
     res = ""
     res += "[[Block: Imported From Code]]"
     number = 1
     for pair in pairs:
-        res= res + "\n" + str(number) + ". " + " Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He attempts to pour a drink and is successful. Teddy then serves the drink to the customer. \n\n " 
+        res= res + "\n" + str(number) + ". " + storytext + "\n\n " 
         res = res + str(number+1) +". " + str(pair[1])
-        res = res + "\n\n " + str(number+2) + ". " + ' Rate this question-answer pair on the scale: ' + "\n\n" 
+        res = res + "\n\n " + str(number+2) + ". " + ' Question ' + str(int(number/3) + 1) + ' of ' + str(len(pairs)) + ' Rate this question-answer pair on the scale: ' + "\n\n" 
         res+= "Very Bad Answer \nBad Answer \nGood Answer \nVery Good Answer \n \n [[PageBreak]]"
         number = number + 3 
     return res
@@ -213,13 +234,21 @@ def createQAPairs(nodepairs):
           nodepairs[i]['path'],
           nodepairs[i]['code']
           ])
+    # for x in range(1, 4):
+    #     pairs.append( [i+x,
+    #         "Select Good Answer to continue.",
+    #         'Comprehension check',
+    #         'NA',
+    #         'NA',
+    #         '0000'
+    #     ])
     print('[LOG]Generated ' + str(i-1) + ' questions.' )
     return pairs
 
-def publishPairs(pairs, output_sheet):    
+def publishPairs(pairs, output_sheet, file_name, storytext):    
     # opening a file in 'w'
-    file = open('pairs.txt', 'w')
-    file.write(printAsSurveyBlock(pairs))
+    file = open(file_name, 'w')
+    file.write(printAsSurveyBlock(pairs, storytext))
     file.close()
 
     #write to google sheets API
@@ -228,17 +257,18 @@ def publishPairs(pairs, output_sheet):
     }, SAMPLE_RANGE_NAME=output_sheet)
     print('done')
 
-def setProbs(whyprob, consprob):
-    global WHYPROB , CONSPROB
+def setProbs(whyprob, consprob, howprob):
+    global WHYPROB , CONSPROB, HOWPROB
     WHYPROB = whyprob
     CONSPROB = consprob
+    HOWPROB = howprob
 
 def main():
     nodes_sheet = 'RefillShortNodes!A2:AA2000'
     edges_sheet = 'RefillShortEdges!A2:AA2000' 
     output_sheet = 'Sheet4!A2:AA1000'
     pairs = createQAPairs(generateNodePairsFromGraph(nodes_sheet, edges_sheet))
-    publishPairs(pairs, output_sheet)
+    publishPairs(pairs, output_sheet, '', '')
 
 
 # main()

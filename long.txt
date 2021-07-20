@@ -1,0 +1,1951 @@
+[[Block: Imported From Code]]
+1. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 2. Question: Why did Teddy pick up the new bottle?
+ Answer: Because he wanted to check whether the first bottle was filled.
+
+ 3.  Question 1 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+4. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 5. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He poured the drink from the second bottle successfully.
+
+ 6.  Question 2 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+7. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 8. Question: Why did Teddy want to pick up the second bottle?
+ Answer: In order to refill the customer's drink.
+
+ 9.  Question 3 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+10. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 11. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: He checked the bottle and saw that it was empty.
+
+ 12.  Question 4 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+13. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 14. Question: Why did Teddy want to place the first bottle down?
+ Answer: Because the first bottle was empty.
+
+ 15.  Question 5 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+16. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 17. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He placed the first bottle down.
+
+ 18.  Question 6 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+19. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 20. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: The glass was empty.
+
+ 21.  Question 7 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+22. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 23. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: Because he wanted to pick up the first bottle.
+
+ 24.  Question 8 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+25. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 26. Question: Why did Teddy pour the drink?
+ Answer: Because the glass was empty.
+
+ 27.  Question 9 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+28. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 29. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: Because the glass was empty.
+
+ 30.  Question 10 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+31. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 32. Question: Why did Teddy serve the drink to the customer?
+ Answer: Because he picked up the first bottle
+
+ 33.  Question 11 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+34. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 35. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: The bottle had liquid inside of it.
+
+ 36.  Question 12 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+37. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 38. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: Teddy believed that the first bottle was empty.
+
+ 39.  Question 13 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+40. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 41. Question: How did Teddy place the first bottle down?
+ Answer: Teddy believed that the first bottle was empty.
+
+ 42.  Question 14 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+43. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 44. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: The glass was empty.
+
+ 45.  Question 15 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+46. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 47. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He picked up the first bottle.
+
+ 48.  Question 16 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+49. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 50. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: He picked up the second bottle.
+
+ 51.  Question 17 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+52. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 53. Question: Why did Teddy pour the drink?
+ Answer: Because the glass was empty.
+
+ 54.  Question 18 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+55. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 56. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: Teddy believed that the first bottle was empty.
+
+ 57.  Question 19 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+58. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 59. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: In order to refill the customer's drink.
+
+ 60.  Question 20 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+61. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 62. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: The drink in the glass was refilled.
+
+ 63.  Question 21 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+64. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 65. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: Teddy was unsure whether the first bottle was full.
+
+ 66.  Question 22 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+67. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 68. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: The glass was empty.
+
+ 69.  Question 23 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+70. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 71. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He checked the bottle and saw that it was empty.
+
+ 72.  Question 24 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+73. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 74. Question: What was the consequence of Teddy picking up the new bottle?
+ Answer: He failed to pour the drink from the first bottle.
+
+ 75.  Question 25 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+76. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 77. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He checked the bottle and saw that it was empty.
+
+ 78.  Question 26 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+79. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 80. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: Teddy was holding the second bottle.
+
+ 81.  Question 27 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+82. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 83. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He placed the first bottle down.
+
+ 84.  Question 28 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+85. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 86. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: He placed the first bottle down.
+
+ 87.  Question 29 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+88. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 89. Question: Why did Teddy want to pick up the first bottle?
+ Answer: Because he wanted to pour a drink from the first bottle.
+
+ 90.  Question 30 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+91. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 92. Question: How did Teddy pour the drink from the second bottle?
+ Answer: He placed the first bottle down.
+
+ 93.  Question 31 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+94. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 95. Question: Why did Teddy serve the drink to the customer?
+ Answer: Because he failed pouring the drink from the first bottle.
+
+ 96.  Question 32 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+97. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 98. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: He poured the drink from the second bottle successfully.
+
+ 99.  Question 33 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+100. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 101. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He picked up the new bottle.
+
+ 102.  Question 34 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+103. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 104. Question: Why did Teddy check the first bottle?
+ Answer: Because he wanted to pick up the first bottle.
+
+ 105.  Question 35 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+106. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 107. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He attempted to pour the drink from the first bottle (unsuccessfully).
+
+ 108.  Question 36 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+109. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 110. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He picked up the new bottle.
+
+ 111.  Question 37 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+112. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 113. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: He failed to pour the drink from the first bottle.
+
+ 114.  Question 38 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+115. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 116. Question: Why did Teddy pick up the new bottle?
+ Answer: Because he failed pouring the drink from the first bottle.
+
+ 117.  Question 39 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+118. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 119. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: He picked up the second bottle.
+
+ 120.  Question 40 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+121. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 122. Question: Why did Teddy pick up the first bottle?
+ Answer: In order to refill the customer's drink.
+
+ 123.  Question 41 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+124. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 125. Question: Why did Teddy pick up the new bottle?
+ Answer: Because he wanted to pour a drink from the second bottle.
+
+ 126.  Question 42 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+127. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 128. Question: Why did Teddy want to check the first bottle?
+ Answer: Because the glass was empty.
+
+ 129.  Question 43 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+130. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 131. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He poured the drink from the second bottle successfully.
+
+ 132.  Question 44 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+133. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 134. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: He picked up the new bottle.
+
+ 135.  Question 45 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+136. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 137. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He placed the first bottle down.
+
+ 138.  Question 46 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+139. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 140. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: Teddy believed the bottle was not empty.
+
+ 141.  Question 47 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+142. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 143. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: Because the first bottle was empty.
+
+ 144.  Question 48 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+145. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 146. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He failed to pour the drink from the first bottle.
+
+ 147.  Question 49 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+148. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 149. Question: Why did Teddy place the first bottle down?
+ Answer: Because Teddy was unsure whether the first bottle was empty.
+
+ 150.  Question 50 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+151. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 152. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: The bottle had liquid inside of it.
+
+ 153.  Question 51 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+154. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 155. Question: Why did Teddy serve the drink to the customer?
+ Answer: Because Teddy was unsure whether the first bottle was empty.
+
+ 156.  Question 52 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+157. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 158. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He refilled the customer's drink.
+
+ 159.  Question 53 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+160. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 161. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He picked up the second bottle.
+
+ 162.  Question 54 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+163. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 164. Question: What was the consequence of Teddy picking up the new bottle?
+ Answer: He poured the drink from the second bottle successfully.
+
+ 165.  Question 55 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+166. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 167. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: Because Teddy believed that the bottle was not empty.
+
+ 168.  Question 56 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+169. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 170. Question: Why did Teddy pour the drink?
+ Answer: Because he wanted to pour a drink from the first bottle.
+
+ 171.  Question 57 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+172. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 173. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: Teddy was not holding anything.
+
+ 174.  Question 58 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+175. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 176. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He poured the drink from the second bottle successfully.
+
+ 177.  Question 59 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+178. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 179. Question: Why did Teddy place the first bottle down?
+ Answer: Because he failed pouring the drink from the first bottle.
+
+ 180.  Question 60 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+181. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 182. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: The glass was empty.
+
+ 183.  Question 61 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+184. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 185. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: He placed the first bottle down.
+
+ 186.  Question 62 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+187. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 188. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He picked up the first bottle.
+
+ 189.  Question 63 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+190. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 191. Question: Why did Teddy pick up the new bottle?
+ Answer: Because the first bottle was empty.
+
+ 192.  Question 64 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+193. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 194. Question: Why did Teddy serve the drink to the customer?
+ Answer: Because he placed the first bottle down.
+
+ 195.  Question 65 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+196. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 197. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: Teddy was holding the first bottle.
+
+ 198.  Question 66 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+199. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 200. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: Teddy believed the bottle was not empty.
+
+ 201.  Question 67 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+202. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 203. Question: How did Teddy pick up the new bottle?
+ Answer: Teddy believed that the first bottle was empty.
+
+ 204.  Question 68 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+205. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 206. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: Because he picked up the first bottle
+
+ 207.  Question 69 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+208. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 209. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: Teddy was holding the first bottle.
+
+ 210.  Question 70 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+211. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 212. Question: What was the consequence of Teddy picking up the new bottle?
+ Answer: He placed the first bottle down.
+
+ 213.  Question 71 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+214. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 215. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He picked up the first bottle.
+
+ 216.  Question 72 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+217. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 218. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: Teddy believed that the first bottle was empty.
+
+ 219.  Question 73 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+220. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 221. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He checked the bottle and saw that it was empty.
+
+ 222.  Question 74 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+223. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 224. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: Teddy was holding the first bottle.
+
+ 225.  Question 75 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+226. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 227. Question: How did Teddy serve the drink to the customer?
+ Answer: He placed the first bottle down.
+
+ 228.  Question 76 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+229. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 230. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: Teddy believed the bottle was not empty.
+
+ 231.  Question 77 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+232. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 233. Question: Why did Teddy want to check the first bottle?
+ Answer: Because Teddy was unsure whether the first bottle was empty.
+
+ 234.  Question 78 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+235. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 236. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: The customer was served the drink.
+
+ 237.  Question 79 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+238. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 239. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: Teddy was holding the first bottle.
+
+ 240.  Question 80 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+241. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 242. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: He picked up the first bottle.
+
+ 243.  Question 81 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+244. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 245. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He served the drink to the customer.
+
+ 246.  Question 82 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+247. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 248. Question: Why did Teddy serve the drink to the customer?
+ Answer: In order to refill the customer's drink.
+
+ 249.  Question 83 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+250. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 251. Question: Why did Teddy place the first bottle down?
+ Answer: Because he picked up the first bottle
+
+ 252.  Question 84 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+253. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 254. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: The customer was served the drink.
+
+ 255.  Question 85 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+256. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 257. Question: Why did Teddy place the first bottle down?
+ Answer: Because he wanted to place the bottle down.
+
+ 258.  Question 86 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+259. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 260. Question: Why did Teddy pick up the first bottle?
+ Answer: In order to refill the customer's drink.
+
+ 261.  Question 87 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+262. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 263. Question: Why did Teddy pour the drink?
+ Answer: Because he failed pouring the drink from the first bottle.
+
+ 264.  Question 88 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+265. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 266. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He refilled the customer's drink.
+
+ 267.  Question 89 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+268. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 269. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He picked up the second bottle.
+
+ 270.  Question 90 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+271. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 272. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: Teddy was unsure whether the first bottle was full.
+
+ 273.  Question 91 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+274. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 275. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: Teddy believed the bottle was not empty.
+
+ 276.  Question 92 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+277. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 278. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: The drink in the glass was refilled.
+
+ 279.  Question 93 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+280. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 281. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: Because Teddy was holding the bottle.
+
+ 282.  Question 94 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+283. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 284. Question: Why did Teddy pick up the first bottle?
+ Answer: In order to refill the customer's drink.
+
+ 285.  Question 95 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+286. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 287. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: Teddy was unsure whether the first bottle was full.
+
+ 288.  Question 96 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+289. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 290. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He refilled the customer's drink.
+
+ 291.  Question 97 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+292. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 293. Question: What was the consequence of Teddy picking up the new bottle?
+ Answer: Teddy was unsure whether the first bottle was full.
+
+ 294.  Question 98 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+295. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 296. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: Teddy was not holding anything.
+
+ 297.  Question 99 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+298. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 299. Question: Why did Teddy pick up the first bottle?
+ Answer: In order to refill the customer's drink.
+
+ 300.  Question 100 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+301. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 302. Question: Why did Teddy attempt to (unsuccessfully) pour the drink from the first bottle? Why did Teddy's attempt to pour the drink from the first bottle fail?
+ Answer: Because he wanted to pour a drink from the first bottle.
+
+ 303.  Question 101 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+304. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 305. Question: Why did Teddy place the first bottle down?
+ Answer: Because he wanted to pour a drink from the first bottle.
+
+ 306.  Question 102 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+307. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 308. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: Teddy was holding the second bottle.
+
+ 309.  Question 103 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+310. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 311. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He refilled the customer's drink.
+
+ 312.  Question 104 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+313. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 314. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: He failed to pour the drink from the first bottle.
+
+ 315.  Question 105 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+316. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 317. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: He poured the drink from the second bottle successfully.
+
+ 318.  Question 106 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+319. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 320. Question: What was the consequence of Teddy placing the first bottle down?
+ Answer: Teddy believed the bottle was not empty.
+
+ 321.  Question 107 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+322. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 323. Question: Why did Teddy serve the drink to the customer?
+ Answer: Because the drink in the glass was now refilled.
+
+ 324.  Question 108 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+325. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 326. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He poured the drink from the second bottle successfully.
+
+ 327.  Question 109 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+328. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 329. Question: How did Teddy serve the drink to the customer?
+ Answer: Teddy believed that the first bottle was empty.
+
+ 330.  Question 110 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+331. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 332. Question: Why did Teddy check the first bottle?
+ Answer: Because he picked up the first bottle
+
+ 333.  Question 111 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+334. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 335. Question: How did Teddy serve the drink to the customer?
+ Answer: He picked up the first bottle.
+
+ 336.  Question 112 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+337. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 338. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: Teddy was not holding anything.
+
+ 339.  Question 113 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+340. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 341. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: Teddy was holding the second bottle.
+
+ 342.  Question 114 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+343. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 344. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: He checked the bottle and saw that it was empty.
+
+ 345.  Question 115 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+346. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 347. Question: Why did Teddy pour the drink?
+ Answer: Because Teddy was holding the second bottle.
+
+ 348.  Question 116 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+349. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 350. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: The drink in the glass was refilled.
+
+ 351.  Question 117 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+352. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 353. Question: Why did Teddy check the first bottle?
+ Answer: Because the first bottle was empty.
+
+ 354.  Question 118 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+355. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 356. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He picked up the first bottle.
+
+ 357.  Question 119 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+358. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 359. Question: Why did Teddy pour the drink?
+ Answer: Because he wanted to pour a drink from the first bottle.
+
+ 360.  Question 120 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+361. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 362. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: Teddy was unsure whether the first bottle was full.
+
+ 363.  Question 121 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+364. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 365. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: Teddy was holding the first bottle.
+
+ 366.  Question 122 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+367. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 368. Question: Why did Teddy want to check the first bottle?
+ Answer: Because he failed pouring the drink from the first bottle.
+
+ 369.  Question 123 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+370. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 371. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: The glass was empty.
+
+ 372.  Question 124 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+373. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 374. Question: What was the consequence of Teddy picking up the new bottle?
+ Answer: He placed the first bottle down.
+
+ 375.  Question 125 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+376. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 377. Question: Why did Teddy pour the drink?
+ Answer: Because the glass was empty.
+
+ 378.  Question 126 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+379. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 380. Question: Why did Teddy place the first bottle down?
+ Answer: Because the first bottle was empty.
+
+ 381.  Question 127 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+382. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 383. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: Teddy was holding the second bottle.
+
+ 384.  Question 128 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+385. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 386. Question: Why did Teddy serve the drink to the customer?
+ Answer: Because Teddy believed that the first bottle was empty.
+
+ 387.  Question 129 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+388. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 389. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He failed to pour the drink from the first bottle.
+
+ 390.  Question 130 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+391. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 392. Question: Why did Teddy want to check the first bottle?
+ Answer: Because he wanted to pour a drink from the first bottle.
+
+ 393.  Question 131 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+394. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 395. Question: Why did Teddy check the first bottle?
+ Answer: Because the glass was empty.
+
+ 396.  Question 132 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+397. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 398. Question: Why did Teddy pour the drink?
+ Answer: Because Teddy was holding the second bottle.
+
+ 399.  Question 133 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+400. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 401. Question: Why did Teddy check the first bottle?
+ Answer: In order to refill the customer's drink.
+
+ 402.  Question 134 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+403. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 404. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He picked up the first bottle.
+
+ 405.  Question 135 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+406. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 407. Question: What was the consequence of Teddy checking the bottle and finding it empty?
+ Answer: The customer was served the drink.
+
+ 408.  Question 136 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+409. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 410. Question: Why did Teddy pick up the new bottle?
+ Answer: Because Teddy was unsure whether the first bottle was empty.
+
+ 411.  Question 137 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+412. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 413. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: Teddy believed that the first bottle was empty.
+
+ 414.  Question 138 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+415. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 416. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: Teddy was holding the first bottle.
+
+ 417.  Question 139 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+418. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 419. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: The customer was served the drink.
+
+ 420.  Question 140 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+421. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 422. Question: Why did Teddy want to check the first bottle?
+ Answer: In order to refill the customer's drink.
+
+ 423.  Question 141 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+424. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 425. Question: What was the consequence of Teddy failing pouring the drink from the first bottle?
+ Answer: He refilled the customer's drink.
+
+ 426.  Question 142 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+427. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 428. Question: Why did Teddy check the first bottle?
+ Answer: Because he failed pouring the drink from the first bottle.
+
+ 429.  Question 143 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+430. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 431. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He picked up the first bottle.
+
+ 432.  Question 144 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+433. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 434. Question: What was the consequence of Teddy picking up the first bottle?
+ Answer: He checked the bottle and saw that it was empty.
+
+ 435.  Question 145 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+436. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 437. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: He picked up the first bottle.
+
+ 438.  Question 146 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+439. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 440. Question: Why did Teddy place the first bottle down?
+ Answer: In order to refill the customer's drink.
+
+ 441.  Question 147 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+442. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 443. Question: What was the consequence of Teddy pouring the new drink successfully?
+ Answer: The glass was empty.
+
+ 444.  Question 148 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+445. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 446. Question: Why did Teddy want to place the first bottle down?
+ Answer: Because he failed pouring the drink from the first bottle.
+
+ 447.  Question 149 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
+448. Teddy is a bartender working in a bar. He wants to serve a customer their drink. There are bottles of beverage on the shelf. Teddy walks over to the shelf and picks up a bottle. He then attempts to pour a drink from it but fails. He checks the bottle and sees that the bottle is empty. Teddy then places the first bottle back on the shelf and picks up a new bottle. He attempts to pour a drink again and is successful. Teddy then serves the drink to the customer.
+
+ 449. Question: Why did Teddy pour the drink?
+ Answer: Because the glass was empty.
+
+ 450.  Question 150 of 150 Rate this question-answer pair on the scale: 
+
+Very Bad Answer 
+Bad Answer 
+Good Answer 
+Very Good Answer 
+ 
+ [[PageBreak]]
