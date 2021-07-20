@@ -23,7 +23,7 @@ def getService():
             creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
-                'client_secret_269040863650-4gmq13ovr1c8fsmlgnkqjmlc43f3rgct.apps.googleusercontent.com.json', SCOPES) # here enter the name of your downloaded JSON file
+                'secret.json', SCOPES) # here enter the name of your downloaded JSON file
             creds = flow.run_local_server(port=0)
         with open('token.pickle', 'wb') as token:
             pickle.dump(creds, token)
